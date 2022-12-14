@@ -1,4 +1,4 @@
-FROM node:16.13.0-alpine
+FROM node:16.18-alpine
 # Set user and working directory
 # Working directory needs to be under /home/node
 USER node
